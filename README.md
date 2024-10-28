@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=royedc4&color=blue)
+
 <!--
 **Royedc4/royedc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
