@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ERP Odoo, Wordpress
+- 🌱 I’m currently learning LLM
+- 👯 I’m looking to collaborate on Odoo
+- 🤔 I’m looking for help with Growth
+- 💬 Ask me about Tech 
+- 📫 How to reach me: https://t.me/roycalderon
+
 ![](https://komarev.com/ghpvc/?username=royedc4&color=blue)
 
 <!--
