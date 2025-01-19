@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Computers science Engineer, Founder of plusteam, Father, Gamer.
+
 - 🔭 I’m currently working on ERP Odoo, Wordpress
 - 🌱 I’m currently learning LLM
 - 👯 I’m looking to collaborate on Odoo
