@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computers science Engineer, Founder of plusteam, Father, Gamer.
+Computers science Engineer, Founder of plusteam💙, Gamer, Father.
 
 - 🔭 I’m currently working on ERP Odoo, Wordpress
 - 🌱 I’m currently learning LLM
@@ -10,6 +10,8 @@ Computers science Engineer, Founder of plusteam, Father, Gamer.
 - 📫 How to reach me: https://t.me/roycalderon
 
 ![](https://komarev.com/ghpvc/?username=royedc4&color=blue)
+
+Be the best!
 
 <!--
 **Royedc4/royedc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
