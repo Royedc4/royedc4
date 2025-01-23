@@ -2,11 +2,11 @@
 
 Computers science Engineer, Founder of plusteam💙, Gamer, Father.
 
-- 🔭 I’m currently working on ERP Odoo, Wordpress
-- 🌱 I’m currently learning LLM
-- 👯 I’m looking to collaborate on Odoo
-- 🤔 I’m looking for help with Growth
-- 💬 Ask me about Tech 
+- 🔭 I’m currently working on ERP Odoo, Wordpress and OpenAI
+- 🌱 I’m currently learning LLM's
+- 👯 I’m looking to collaborate on Demanding Tech projects
+- 🤔 I’m looking for help with Business Growth
+- 💬 Ask me about Tech Projects
 - 📫 How to reach me: https://t.me/roycalderon
 
 ![](https://komarev.com/ghpvc/?username=royedc4&color=blue)
