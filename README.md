@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Roy Calderón
 
-💼 CEO, Founder & Software Engineer at [plusteam](https://plusteam.tech) | 🚀 Senior Consultant & ERP Engineer
+💼 CEO, Founder & Software Engineer at [plusteam](https://plusteam.tech) | 🚀 Senior Consultant
 
 🤖 Implementing Enterprise Solutions: AI, ERP, Integrations.
 🚀 Driving Innovation & Leading Technological Excellence.
