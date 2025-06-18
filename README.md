@@ -33,6 +33,7 @@
 `Python` `ERPs` `AWS/GCP` `PostgreSQL` `Agile` `Scrum`
 
 🚀 **Recent Projects:**
+- **Best of breed cloud implementation**
 - **ERP Venezuelan i10n** - Production-grade locale for companies in this country, enabling localized financial operations.
 - **RevOps Platform Integrations** - Successfully integrated platforms like **Odoo, HubSpot, Salesforce, WordPress** for streamlined Revenue Operations.
 - **+AI Agents** - Developed AI-powered Social Agents, enhancing automated interactions.
